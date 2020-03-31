@@ -15,6 +15,7 @@ public class DatabaseConnectionManager{
         database = "jdbctest123";
         user = "jdbctest123";
         password = "Nd77w1X0V~p-";
+        
     }
 
 
