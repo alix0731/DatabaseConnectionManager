@@ -1,7 +1,9 @@
+import java.io.*;
 import java.sql.*;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
+import java.util.Properties;
 
 public class Main {
 
@@ -9,14 +11,13 @@ public class Main {
 
 
 
+
         Employee employee = new Employee();
 
 
-        for(Integer x: employee.getAllEmployees().keySet()){
+        for (Integer x : employee.getAllEmployees().keySet()) {
             System.out.println(employee.getAllEmployees().get(x));
         }
-
-
 
 
         Department department = new Department();
