@@ -6,17 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Map<Integer, String> listNum = new HashMap<Integer, String>();
-
-        listNum.put(1, "one");
-
-        listNum.put(2,"two");
-        listNum.put(3,"three");
-
-        System.out.println(listNum.get(1));
 
 
-        /*
+
         Employee employee = new Employee();
 
 
@@ -24,7 +16,7 @@ public class Main {
             System.out.println(employee.getAllEmployees().get(i));
         }
 
-         */
+         
 
 /*
         try {
