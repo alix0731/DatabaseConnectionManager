@@ -1,5 +1,6 @@
 import java.sql.*;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
 
 public class Main {
@@ -8,15 +9,20 @@ public class Main {
 
 
 
-
         Employee employee = new Employee();
 
 
-        for(int i : employee.getAllEmployees().keySet()){
-            System.out.println(employee.getAllEmployees().get(i));
+        for(Integer x: employee.getAllEmployees().keySet()){
+            System.out.println(employee.getAllEmployees().get(x));
         }
 
-         
+
+
+
+        Department department = new Department();
+        System.out.println(department.getSetOfDepartments());
+
+
 
 /*
         try {
