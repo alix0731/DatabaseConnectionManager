@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e9e01b2d-0267-496c-b18f-93d2e4fbc9bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DatabaseConnectionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585680619704</updated>
       <workItem from="1585680624087" duration="5168000" />
-      <workItem from="1585691452309" duration="4836000" />
+      <workItem from="1585691452309" duration="5587000" />
     </task>
     <servers />
   </component>
@@ -110,6 +107,10 @@
     </state>
     <state x="229" y="58" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585691538704" />
     <state x="229" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1585682011492" />
+    <state x="129" y="137" key="new project wizard" timestamp="1585768648632">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="129" y="137" key="new project wizard/0.23.1440.832@0.23.1440.832" timestamp="1585768648632" />
     <state x="385" y="168" width="670" height="733" key="search.everywhere.popup" timestamp="1585693434641">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
